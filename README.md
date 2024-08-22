@@ -5,6 +5,6 @@
 <a href='https://www.instagram.com/_amanpathak_1612/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=FFFFFF&labelColor=F13EA9&color=F13EA9'/></a>
 <a href='https://x.com/AmanPathak1612' target="_blank"><img alt='X' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=X&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,swift)](https://skillicons.dev)
 
 
