@@ -7,6 +7,6 @@
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,swift)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,xcode,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,react,homebrew)](https://skillicons.dev)
 
 
