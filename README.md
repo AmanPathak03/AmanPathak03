@@ -1,2 +1,3 @@
-# Aman_Pathak
-My Personal Respository.
+# Hi there!👋🏻 I'm Aman Pathak
+Socials
+
