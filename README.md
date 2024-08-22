@@ -7,6 +7,6 @@
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,swift)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,react,tensorflow,mysql,postgres,aws,azure,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,react,tensorflow,mysql,postgres,aws,azure,vercel,bash,figma,opencv,pytorch,sklearn,vite,apple,windows)](https://skillicons.dev)
 
 
